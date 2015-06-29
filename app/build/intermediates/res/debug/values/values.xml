@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/002/d2/Pro%20Android%20Media%20Ch%208%20-%20Audio%20Synthesis/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Audio Synthesis</string>
+    <string name="hello">Hello World, AudioSynthesis!</string>
+</resources>
